@@ -1,13 +1,13 @@
-# Projeto de CRUD com Angular 16, Spring 3 e Java 16
+# Projeto de CRUD com Angular 16, Spring 3 e Java 17
 
-Este projeto envolve o desenvolvimento de um aplicativo CRUD, utilizando **Angular 16** para o frontend, **Spring 3** para o backend e **Java 16** como linguagem principal. Ele foi criado no canal da [Loiane Groner](https://www.youtube.com/@loianegroner).
+Este projeto envolve o desenvolvimento de um aplicativo CRUD, utilizando **Angular 16** para o frontend, **Spring 3** para o backend e **Java 17** como linguagem principal. Ele foi criado no canal da [Loiane Groner](https://www.youtube.com/@loianegroner).
 
 ## Resumo
 
 - **Tecnologias Utilizadas:**
   - **Angular 16:** Um framework frontend para criar interfaces de usuário dinâmicas.
   - **Spring 3:** Um framework backend que simplifica o desenvolvimento de aplicativos Java.
-  - **Java 16:** A linguagem Java 16 oferece recursos avançados e melhorias de desempenho.
+  - **Java 17:** A linguagem Java 17 oferece recursos avançados e melhorias de desempenho.
 
 - **Funcionalidades:**
   - Este projeto é um aplicativo CRUD, permitindo a criação, leitura, atualização e exclusão de registros.
