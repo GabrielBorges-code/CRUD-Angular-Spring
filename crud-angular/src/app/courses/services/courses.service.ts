@@ -7,7 +7,6 @@ import { delay, first, tap } from 'rxjs';
 @Injectable({
   providedIn: 'root',
 })
-
 export class CoursesService {
   private readonly API = 'api/courses';
 
@@ -19,5 +18,9 @@ export class CoursesService {
       delay(500),
       tap((courses) => console.log(courses))
     );
+  }
+
+  save(record: Courses) {
+    return this.httpClient.post<Courses>(this.API, record).pipe(first());
   }
 }
