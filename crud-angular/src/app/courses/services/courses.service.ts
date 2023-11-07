@@ -7,6 +7,7 @@ import { delay, first, tap } from 'rxjs';
 @Injectable({
   providedIn: 'root',
 })
+
 export class CoursesService {
   private readonly API = 'api/courses';
 
