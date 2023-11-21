@@ -1,6 +1,6 @@
 # Projeto de CRUD com Angular 16, Spring 3 e Java 17
 
-Este projeto envolve o desenvolvimento de um aplicativo CRUD, utilizando **Angular 16** para o frontend, **Spring 3** para o backend e **Java 17** como linguagem principal. Ele foi criado no canal da [Loiane Groner](https://www.youtube.com/@loianegroner).
+Este projeto envolve o desenvolvimento de um aplicativo CRUD, utilizando **Angular 16** para o frontend, **Java 17** com **Spring 3** para o backend e. Ele foi desenvolvido em um curso no canal da [Loiane Groner](https://www.youtube.com/@loianegroner).
 
 ## Resumo
 
@@ -18,4 +18,4 @@ Este projeto envolve o desenvolvimento de um aplicativo CRUD, utilizando **Angul
 - **Canal da Loiane:**
   - O projeto foi desenvolvido no canal da [Loiane Groner](https://www.youtube.com/@loianegroner), proporcionando recursos educacionais valiosos, como tutoriais em vídeo e explicações detalhadas.
 
-Este projeto é uma excelente oportunidade para aprender sobre o desenvolvimento de aplicativos web modernos, desde a construção da interface do usuário com Angular até a criação de uma API robusta com Spring e a integração com um banco de dados relacional para armazenamento de dados estruturados. Você pode explorar o código-fonte e os recursos educacionais disponíveis no canal da Loiane para aprofundar seu conhecimento nessas tecnologias.
+Este projeto é uma excelente oportunidade para aprender sobre o desenvolvimento de aplicativos web modernos, desde a construção da interface do usuário com Angular até a criação de uma API robusta com Spring e a integração com um banco de dados relacional para armazenamento de dados estruturados.
