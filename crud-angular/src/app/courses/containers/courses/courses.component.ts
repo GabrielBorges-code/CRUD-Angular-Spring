@@ -2,9 +2,8 @@ import { Component, OnInit } from '@angular/core';
 import { MatDialog } from '@angular/material/dialog';
 import { catchError, Observable, of } from 'rxjs';
 import { ErrorDialogComponent } from 'src/app/shared/components/error-dialog/error-dialog.component';
-
-import { Courses } from '../model/courses';
-import { CoursesService } from './../services/courses.service';
+import { Courses } from '../../model/courses';
+import { CoursesService } from '../../services/courses.service';
 import { ActivatedRoute, Router } from '@angular/router';
 
 @Component({
@@ -14,7 +13,6 @@ import { ActivatedRoute, Router } from '@angular/router';
 })
 export class CoursesComponent implements OnInit {
   courses$: Observable<Courses[]>;
-  // courses: Courses[] = [];
 
   displayedColumns = ['name', 'category', 'actions'];
 

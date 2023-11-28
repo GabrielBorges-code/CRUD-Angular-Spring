@@ -4,12 +4,13 @@ import { ReactiveFormsModule } from '@angular/forms';
 
 import { AppMaterialModule } from '../shared/app-material/app-material.module';
 import { SharedModule } from '../shared/shared.module';
-import { CoursesFormComponent } from './courses-form/courses-form.component';
+import { CoursesFormComponent } from './containers/courses-form/courses-form.component';
 import { CoursesRoutingModule } from './courses-routing.module';
-import { CoursesComponent } from './courses/courses.component';
+import { CoursesComponent } from './containers/courses/courses.component';
+import { CoursesListComponent } from './components/courses-list/courses-list.component';
 
 @NgModule({
-  declarations: [CoursesComponent, CoursesFormComponent],
+  declarations: [CoursesComponent, CoursesFormComponent, CoursesListComponent],
   imports: [
     CommonModule,
     CoursesRoutingModule,
